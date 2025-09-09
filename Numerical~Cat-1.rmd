@@ -27,7 +27,7 @@ OurData <- chickwts
 
 After looking at the data the "numerical categorical data" was the best option because,VitC is a numerical variable that will explain by Cult which is a factor variable is categorical variable. This is how we knew what helper filer to upload. 
 ```{r}
-plot(momheight~Sex,data=davisdata)
+boxplot(VitC~Cult,data=veggy)
 ```
 
 ## Now with ggplot - first select the basic data
