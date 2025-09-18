@@ -61,7 +61,7 @@ The Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52 which is 
 t.test(VitC~Cult,data=veggy)
 ```
 
-The chances of getting a a result like this .00000003405. This mean that they are differnt and not the same.
+The chances of getting a a result like this .00000003405. This means that they are different and not the same.
 
 # Discussion and Conclusion
 
