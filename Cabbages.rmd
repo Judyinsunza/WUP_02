@@ -51,7 +51,7 @@ This is measuring the amount of VitC content that is dependent upon the cultivat
 favstats(VitC~Cult,data=veggy)
 ```
 
-The Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52which is 58. As a result Q3 is higher than a Q1 means that they are significantly different.
+The Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52 which is 58. As a result Q3 is higher than a Q1 means that they are significantly different. The probability of getting the other number between them is a very small number.
 
 ## Inferential Results
 
